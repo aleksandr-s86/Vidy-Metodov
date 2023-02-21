@@ -1,0 +1,15 @@
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\bin\Debug\net6.0\Example 009 massive.exe
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\bin\Debug\net6.0\Example 009 massive.deps.json
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\bin\Debug\net6.0\Example 009 massive.runtimeconfig.json
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\bin\Debug\net6.0\Example 009 massive.dll
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\bin\Debug\net6.0\Example 009 massive.pdb
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\obj\Debug\net6.0\Example 009 massive.csproj.AssemblyReference.cache
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\obj\Debug\net6.0\Example 009 massive.GeneratedMSBuildEditorConfig.editorconfig
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\obj\Debug\net6.0\Example 009 massive.AssemblyInfoInputs.cache
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\obj\Debug\net6.0\Example 009 massive.AssemblyInfo.cs
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\obj\Debug\net6.0\Example 009 massive.csproj.CoreCompileInputs.cache
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\obj\Debug\net6.0\Example 009 massive.dll
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\obj\Debug\net6.0\refint\Example 009 massive.dll
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\obj\Debug\net6.0\Example 009 massive.pdb
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\obj\Debug\net6.0\Example 009 massive.genruntimeconfig.cache
+D:\курс разработчик\лекции\функции(методы)\Example 009 massive\obj\Debug\net6.0\ref\Example 009 massive.dll
